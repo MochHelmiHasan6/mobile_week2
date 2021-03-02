@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 ![screenshot](images/ss.png)
 
 ## Tugas 2
-![tugas2](images/tugas2.png)
+![tugas2](images/tugas2.jpeg)
